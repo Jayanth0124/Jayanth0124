@@ -14,7 +14,7 @@
 
   <br/>
 
-  <img align="right" height="150" src="https://www.jayanth.xyz/assets/img/dp.jpg" style="border-radius: 20px; box-shadow: 8px 8px 15px rgba(0, 0, 0, 0.2), -8px -8px 15px rgba(255, 255, 255, 0.7);" />
+  <img align="right" height="150" src="https://avatars.githubusercontent.com/u/112700471?v=4" style="border-radius: 20px; box-shadow: 8px 8px 15px rgba(0, 0, 0, 0.2), -8px -8px 15px rgba(255, 255, 255, 0.7);" />
 
   <br/>
 
